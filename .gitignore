@@ -28,6 +28,9 @@ CorridorKey_remote.bat
 .vscode/
 .idea/
 
+# Environment files with secrets
+worker/.env
+
 # Models & Checkpoints (Large Files)
 *.pth
 *.pt
